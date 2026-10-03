@@ -1,0 +1,7 @@
+# Windows, CPython 3.12. All direct and transitive dependencies are pinned.
+pywinauto==0.6.9
+pywin32==312
+comtypes==1.4.17
+six==1.17.0
+psutil==7.2.2
+Pillow==12.3.0

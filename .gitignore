@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+diagnostic/.venv/
+diagnostic/results/
+diagnostic/wheels/
+.build-venv/
+build/
+dist/
+spimex_diagnostic.zip
+diagnostic_error.log
+.spimex_run_*/
